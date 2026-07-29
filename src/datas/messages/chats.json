@@ -1,0 +1,31 @@
+{
+  "chats": [
+    {
+      "id": "1",
+      "name": "Ali",
+      "lastMessage": "Makale taslağını gönderdim, bir göz atar mısın?",
+      "time": "12:26",
+      "pinned": true,
+      "read": true,
+      "avatarColor": "#5c6bc0",
+      "initials": "A"
+    },
+    {
+      "id": "2",
+      "name": "Veli",
+      "lastMessage": "Yazım hatalarını düzelttim, tekrar kontrol eder misin?",
+      "time": "15:42",
+      "avatarColor": "#7e57c2",
+      "initials": "V"
+    },
+    {
+      "id": "3",
+      "name": "Sabri",
+      "lastMessage": "Blog yazısı için başlık önerileri hazırladım",
+      "time": "Dün",
+      "unreadCount": 2,
+      "avatarColor": "#26a69a",
+      "initials": "S"
+    }
+  ]
+}

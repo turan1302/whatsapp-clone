@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "id": "new-community",
+      "type": "newCommunity",
+      "title": "Yeni topluluk"
+    },
+    {
+      "id": "community-a",
+      "type": "community",
+      "title": "A topluluğu",
+      "avatarColor": "#1a2332",
+      "initials": "A",
+      "channels": [
+        {
+          "id": "announcements-a",
+          "type": "announcement",
+          "title": "Duyurular",
+          "subtitle": "Topluluğa hoş geldiniz!",
+          "time": "17.06.2026",
+          "iconColor": "#0d4d44",
+          "iconName": "bullhorn"
+        },
+        {
+          "id": "community-chat-a",
+          "type": "chat",
+          "title": "Topluluk Sohbet",
+          "subtitle": "~ İskender Büyük: Hangi taraftasın sen be...",
+          "time": "15:01",
+          "avatarColor": "#546e7a",
+          "initials": "İB"
+        },
+        {
+          "id": "see-all-a",
+          "type": "seeAll",
+          "title": "Tümünü gör"
+        }
+      ]
+    },
+    {
+      "id": "community-b",
+      "type": "community",
+      "title": "B topluluğu",
+      "avatarColor": "#2e1a32",
+      "initials": "B",
+      "channels": [
+        {
+          "id": "announcements-b",
+          "type": "announcement",
+          "title": "Duyurular",
+          "subtitle": "Topluluğa hoş geldiniz!",
+          "time": "16.06.2026",
+          "iconColor": "#0d4d44",
+          "iconName": "bullhorn"
+        },
+        {
+          "id": "community-chat-b",
+          "type": "chat",
+          "title": "Topluluk Sohbet",
+          "subtitle": "~ İskender Büyük: Bu hafta toplantı var mı?",
+          "time": "14:30",
+          "avatarColor": "#5c6bc0",
+          "initials": "İB"
+        },
+        {
+          "id": "see-all-b",
+          "type": "seeAll",
+          "title": "Tümünü gör"
+        }
+      ]
+    }
+  ]
+}
